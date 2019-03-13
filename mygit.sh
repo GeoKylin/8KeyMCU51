@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "2019/03/13"
+git commit -m "Add attachments "
 git remote add origin https://github.com/GeoKylin/8KeyMCU51.git
 
 git pull origin master --allow-unrelated-histories
